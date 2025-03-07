@@ -34,3 +34,13 @@ I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, an
 
 ---
 
+## 📜 License
+
+Content and projects within this repository are licensed under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact & Connect
+
+📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
+<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->

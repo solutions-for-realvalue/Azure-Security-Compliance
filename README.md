@@ -1,4 +1,4 @@
-# 🔒 Azure Cloud Security & Compliance
+# 🛡️ Azure Cloud Security & Compliance
 
 Implementation of security best practices, **IAM policies, RBAC, Azure Policy, and Azure Security Center**, ensuring **robust security & compliance** in cloud environments.
 

@@ -21,3 +21,16 @@ Showcases security configurations and compliance management within Azure cloud i
 - **Monitoring**: Azure Security Center, Azure Monitor
 
 ---
+
+## 📌 Getting Started
+
+- steps for security and compliance...
+
+---
+
+## 🤝 Contributing & Collaboration
+
+I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
+
+---
+

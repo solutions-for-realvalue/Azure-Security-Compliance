@@ -112,6 +112,10 @@ Azure-Security-Compliance/
 
 ## 🤝 Contributing & Collaboration
 
+*   Fork and create a branch
+*   Commit clear and descriptive changes
+*   Submit a pull request
+
 I’m open to collaborating on **Cloud Infrastructure**, **DevOps projects**, and **automation initiatives**. Feel free to connect for collaboration or knowledge exchange!
 
 ---

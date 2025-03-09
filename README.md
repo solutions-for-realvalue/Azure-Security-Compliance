@@ -93,20 +93,20 @@ Azure-Security-Compliance/
 │── Journal.md                  # Weekly Progress Tracking
 ```
 
+---
+
+## 📌 Getting Started
+
+*   Follow security best practices & compliance guidelines provided in this repository.
 
 ---
 
 ## 🌟 Core Skills Demonstrated
 
-- **Security & Compliance**: IAM, NSGs, Encryption, Disaster Recovery
-- **IaC & Automation**: ARM templates, Terraform
-- **Monitoring**: Azure Security Center, Azure Monitor
-
----
-
-## 📌 Getting Started
-
-- steps for security and compliance...
+*   **Identity & Access Management**: IAM, RBAC, AAD Roles
+*   **Security & Compliance**: Azure Policy, Defender for Cloud, Sentinel
+*   **Networking & Encryption**: NSGs, Firewalls, Data Encryption
+*   **Monitoring & Threat Detection**: Azure Monitor, Log Analytics, SIEM
 
 ---
 

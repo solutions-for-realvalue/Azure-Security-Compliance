@@ -38,6 +38,15 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
     *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)
     *   [Azure Role-Based Access Control (RBAC)](https://learn.microsoft.com/en-us/azure/role-based-access-control/)
 
+### 🛠️ **Phase 2: Network Security & Encryption**
+
+*   Configure **Network Security Groups (NSGs) & Application Security Groups**.
+*   Implement **Azure Firewall & DDoS Protection**.
+*   Encrypt **VM disks, Storage Accounts, and Databases**.
+
+    **📚 Relevant Courses:**
+    *   [AZ-500: Microsoft Security Engineer](https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-with-sims)
+    *   [Azure Network Security Best Practices](https://learn.microsoft.com/en-us/azure/networking/network-security-best-practices)
 
 
 

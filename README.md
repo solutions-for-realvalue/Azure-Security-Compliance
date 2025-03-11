@@ -68,6 +68,31 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
     *   [Azure Security Center Deep Dive](https://learn.microsoft.com/en-us/azure/security-center/security-center-introduction)
     *   [Azure Monitor & Log Analytics](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
+---
+
+## 📂 Repository Structure
+
+```bash
+Azure-Security-Compliance/
+│── README.md                   # Overview & Getting Started
+│── IAM/
+│   ├── rbac.json               # Role-Based Access Control (RBAC) Config
+│   ├── aad-groups.json         # Azure Active Directory Groups
+│── Network-Security/
+│   ├── nsg-rules.json          # Network Security Groups Rules
+│   ├── firewall-rules.json     # Azure Firewall Configurations
+│── Encryption/
+│   ├── storage-encryption.json # Encryption for Storage Accounts
+│   ├── vm-disk-encryption.json # VM Disk Encryption Policies
+│── Security-Monitoring/
+│   ├── azure-monitor-config.json # Azure Monitor & Log Analytics Setup
+│   ├── sentinel-rules.json     # Microsoft Sentinel SIEM Rules
+│── Compliance/
+│   ├── azure-policy.json       # Automated Compliance Enforcement
+│── LICENSE
+│── Journal.md                  # Weekly Progress Tracking
+```
+
 
 ---
 

@@ -18,9 +18,13 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
 
 ## 🛠️ Features
 
-- RBAC and IAM configurations
-- Azure Security Center setup
-- Encryption and Network Security Groups (NSGs)
+*   **Identity & Access Management (IAM) & RBAC policies**
+*   **Azure Security Center & Defender for Cloud** implementation
+*   **Network Security Groups (NSGs) & encryption** for data protection
+*   **Security auditing & monitoring with Azure Monitor & Log Analytics**
+*   **Automated compliance enforcement with Azure Policy**
+
+---
 
 ## 🌟 Core Skills Demonstrated
 

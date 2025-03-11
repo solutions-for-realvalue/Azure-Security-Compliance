@@ -26,6 +26,23 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
 
 ---
 
+## 📖 Learning Roadmap
+
+### 🛠️ **Phase 1: IAM & RBAC Implementation**
+
+*   Configure **Azure Active Directory (AAD) roles & permissions**.
+*   Implement **Role-Based Access Control (RBAC)**.
+*   Enforce **Privileged Identity Management (PIM)** for secure access.
+
+    **📚 Relevant Courses:**
+    *   [SC-900: Microsoft Security, Compliance, & Identity](https://www.udemy.com/course/sc-900-microsoft-security-compliance-identity-with-sims)
+    *   [Azure Role-Based Access Control (RBAC)](https://learn.microsoft.com/en-us/azure/role-based-access-control/)
+
+
+
+
+---
+
 ## 🌟 Core Skills Demonstrated
 
 - **Security & Compliance**: IAM, NSGs, Encryption, Disaster Recovery
@@ -55,4 +72,4 @@ Content and projects within this repository are licensed under the [MIT License]
 ## 📧 Contact & Connect
 
 📩 **Email**: [natureuplift@protonmail.com](mailto:natureuplift@protonmail.com)  
-<!-- 🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda) -->
+🔗 **LinkedIn**: [Arnaldo Sepulveda](https://www.linkedin.com/in/arnaldo-sepulveda)

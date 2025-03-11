@@ -48,6 +48,15 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
     *   [AZ-500: Microsoft Security Engineer](https://www.udemy.com/course/az-500-microsoft-azure-security-technologies-with-sims)
     *   [Azure Network Security Best Practices](https://learn.microsoft.com/en-us/azure/networking/network-security-best-practices)
 
+### 🛠️ **Phase 3: Security & Compliance Automation**
+
+*   Deploy **Azure Security Center & Defender for Cloud** for threat monitoring.
+*   Automate security policy enforcement using Azure Policy.
+*   Configure Azure Sentinel for advanced security analytics.
+
+    **📚 Relevant Courses:**
+    *   [Microsoft Sentinel Hands-on Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims)
+    *   [Azure Policy for Governance](https://learn.microsoft.com/en-us/azure/governance/policy/)
 
 
 ---

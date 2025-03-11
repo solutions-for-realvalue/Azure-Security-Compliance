@@ -58,6 +58,16 @@ This repository demonstrates how to **secure Azure cloud infrastructure** using 
     *   [Microsoft Sentinel Hands-on Labs](https://www.udemy.com/course/microsoft-sentinel-course-with-hands-on-sims)
     *   [Azure Policy for Governance](https://learn.microsoft.com/en-us/azure/governance/policy/)
 
+### 🛠️ **Phase 4: Security Monitoring & Incident Response**
+
+*   Set up **Azure Monitor & Log Analytics** for real-time security event tracking.
+*   Configure **alerts & notifications** for security threats.
+*   Implement **SIEM integration** with Microsoft Sentinel.
+
+    **📚 Relevant Courses:**
+    *   [Azure Security Center Deep Dive](https://learn.microsoft.com/en-us/azure/security-center/security-center-introduction)
+    *   [Azure Monitor & Log Analytics](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+
 
 ---
 
